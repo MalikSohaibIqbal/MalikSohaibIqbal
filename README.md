@@ -1,18 +1,25 @@
-- 👋 Hi, I’m @MalikSohaibIqbal
+👋 **Hi, I’m @MalikSohaibIqbal**  
 
-- 👀 I’m interested in software testing, quality assurance, and ensuring the delivery of high-quality software products to users.
+- 👀 **Passionate About:** I'm deeply interested in web and app development, software testing, quality assurance, and delivering high-quality software products.  
 
-- 🌱 I’m currently learning various testing methodologies, techniques, and tools to enhance my skills as a QA tester. I'm also pursuing a degree in software engineering and am in my 5th semester.
+- 🌱 **Currently Learning:**  
+  - Expanding my skills in web and app development.  
+  - Exploring both frontend and backend technologies.  
+  - Mastering testing methodologies and tools.  
+  - Currently in my 7th semester of a software engineering degree.  
 
-- 💞️ I’m looking to collaborate on projects related to software testing, test automation, and quality assurance. I'm eager to contribute my skills and learn from others in the field.
+- 💻 **Development Journey:**  
+  - Learning HTML, CSS, JavaScript, React.  
+  - Building modern, responsive web and mobile applications.  
 
-- 📫 You can reach me via email at sohaib.bronze92@gmail.com or connect with me on LinkedIn (https://www.linkedin.com/in/sohaib-iqbal-32b982192/).
+- 💞️ **Looking to Collaborate:**  
+  - On projects related to web/app development, software testing, test automation, and quality assurance.  
+  - Eager to contribute to meaningful projects and learn from experienced developers and testers.  
 
-- 😄 Pronouns: He/Him
+- 📫 **Connect with Me:**  
+  - 📧 Email: [sohaib.bronze92@gmail.com](mailto:sohaib.bronze92@gmail.com)  
+  - 💼 LinkedIn: [Sohaib Iqbal](https://www.linkedin.com/in/sohaib-iqbal-32b982192/)  
 
-- ⚡ Fun fact: I enjoy solving puzzles and brain teasers in my free time, which I believe helps sharpen my problem-solving skills for testing scenarios!
+- 😄 **Pronouns:** He/Him  
 
-<!---
-MalikSohaibIqbal/MalikSohaibIqbal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ **Fun Fact:** I enjoy solving puzzles and brain teasers, which not only keep my mind sharp but also enhance my problem-solving skills in coding and testing scenarios!  
