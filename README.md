@@ -38,9 +38,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>  
 </p>  
-## 📈 My GitHub Stats
+📈 My GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MalikSohaibIqbal&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MalikSohaibIqbal&show_icons=true&theme=dark)
 
