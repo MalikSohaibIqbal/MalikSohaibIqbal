@@ -38,4 +38,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>  
 </p>  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MalikSohaibIqba&theme=dark&hide_border=true)](https://git.io/streak-stats)
