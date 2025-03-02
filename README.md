@@ -6,11 +6,11 @@
   - Expanding my skills in web and app development.  
   - Exploring both frontend and backend technologies.  
   - Mastering testing methodologies and tools.  
-  - Currently in my 5th semester of a software engineering degree.  
+  - Currently in my 7th semester of a software engineering degree.  
 
 - 💻 **Development Journey:**  
-  - Learning HTML, CSS, JavaScript, React, and React Native.  
-  - Building modern, responsive web and mobile applications.  
+  - Learning HTML, CSS, JavaScript, React.  
+  - Building modern, responsive web applications.  
 
 - 💞️ **Looking to Collaborate:**  
   - On projects related to web/app development, software testing, test automation, and quality assurance.  
@@ -35,7 +35,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>  
 </p>  
