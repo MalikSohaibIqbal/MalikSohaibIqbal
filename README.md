@@ -13,7 +13,7 @@
   - Building modern, responsive web applications.  
 
 - 💞️ **Looking to Collaborate:**  
-  - On projects related to web/app development, software testing, test automation, and quality assurance.  
+  - On projects related to trainee as a web developer, software testing, and quality assurance.  
   - Eager to contribute to meaningful projects and learn from experienced developers and testers.  
 
 - 📫 **Connect with Me:**  
