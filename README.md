@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @MalikSohaibIqbal  
 
-- 👀 **Passionate About:** I'm deeply interested in web and app development, software testing, quality assurance, and delivering high-quality software products.  
+- 👀 **Passionate About:** I'm deeply interested in front-end development, software testing, quality assurance, and delivering high-quality software products.  
 
 - 🌱 **Currently Learning:**  
   - Expanding my skills in web and app development.  
