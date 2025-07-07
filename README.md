@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @MalikSohaibIqbal  
+## 👋 Assalam u Alaikum, I’m @MalikSohaibIqbal  
 
 - 👀 **Passionate About:** I'm deeply interested in front-end development, software testing, quality assurance, and delivering high-quality software products.  
 
