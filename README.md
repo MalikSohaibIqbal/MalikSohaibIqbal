@@ -22,7 +22,7 @@ I engineer fast, accessible web applications, build micro-SaaS utilities, and br
 
 | Product | Category | Stack & Architecture | Status |
 | :--- | :--- | :--- | :--- |
-| **[Sohnics Tech](https://sohnics.tech)** | Digital Product Studio | React, TypeScript, Tailwind, Framer Motion, Offline PWA AI | `● Live` |
+| **[Sohnics Tech](https://sohnics.tech)** | Digital Product Studio | React, TypeScript, Tailwind, Framer Motion | `● Live` |
 | **[Sohnics SEOCrawler](https://sohnicsseocrawler.sohnics.tech)** | Technical SEO & Audit Engine | Automated Crawl Analysis, Metadata & Performance Diagnostics | `● Live` |
 | **[QRSlate](https://qrslate.sohnics.tech)** | Design & Print Utility | Zero-Latency Client-Side QR Generation & Print Templates | `● Live` |
 | **[TasbihHub](https://tasbihhub.online)** | Consumer Web App (PWA) | Mobile-First State Persistence, Minimalist UI | `● Live` |
